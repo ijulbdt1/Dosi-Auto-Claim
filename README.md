@@ -54,7 +54,7 @@ Login Dengan Akun Wallet Kalian
 Masuk Ke Developer Tools
 Cari Bagian Network > membership > Header >DOSI_SES="
 
-kalian Copy Tanpa ( " )
+kalian Copy Tanpa ( " ) Dan Di Akhiri Sebelum Tanda ( " )
 Dan Masukan Ke session_lists.txt
 
 Untuk Menjalakan Perintah
